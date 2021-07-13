@@ -10,3 +10,5 @@ Day 3: 9th July,2021 - Working on the concepts of Decision Making and exploring 
 Day 4: 10th July,2021 - Working on functions in Python and understanding related concepts.
 
 Day 5: 12th July,2021 -  Understood File handling concepts
+
+Day 6: 13th July,2021 - Practising all the above on Python IDLE
