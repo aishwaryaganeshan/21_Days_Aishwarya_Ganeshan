@@ -12,3 +12,5 @@ Day 4: 10th July,2021 - Working on functions in Python and understanding related
 Day 5: 12th July,2021 -  Understood File handling concepts
 
 Day 6: 13th July,2021 - Practising all the above on Python IDLE
+
+Day 7: 14th July,2021 - Working on numpy and pandas
