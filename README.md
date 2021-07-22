@@ -26,3 +26,5 @@ Day 11: 19th July, 2021 - Working on Pandas Dataframe
 Day 12: 20th July, 2021 - Working on Pandas series
 
 Day 13: 21st July, 2021 - Matplotlib introduction
+
+Day 14: 22nd July, 2021 - More practice on pandas concepts
