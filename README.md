@@ -34,3 +34,5 @@ Day 15: 23rd July, 2021 - Getting some practical exposure on arrays
 Day 16: 24th July,2021 - Working on numpy practicals
 
 Day 17: 25th July, 2021 - Exploring some other packages and dependancies
+
+Day 18: 26th July, 2021 - Looking at basic practical questions based on python
