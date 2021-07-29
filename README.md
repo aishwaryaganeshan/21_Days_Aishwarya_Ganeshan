@@ -40,3 +40,5 @@ Day 18: 26th July, 2021 - Looking at basic practical questions based on python
 Day 19: 27th July,2021 - Working on data structure applications
 
 Day 20: 28th July,2021 - Revising previous concepts and applications
+
+Day 21: 29th July,2021 - Going through already made projects for better understanding
